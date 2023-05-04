@@ -1,0 +1,63 @@
+{
+  "title": "Você seria um programador ou um gerente de TI?",
+"questions": [
+    {
+        "id": 1,
+        "question": "Qual área de tecnologia você prefere?",
+        "options": [
+            {"id": 1, "name": "Desenvolvimento de software", "alias": "A"},
+            {"id": 2, "name": "Infraestrutura de TI", "alias": "B"},
+            {"id": 3, "name": "Inteligência artificial", "alias": "A"},
+            {"id": 4, "name": "Segurança cibernética", "alias": "B"},
+            {"id": 5, "name": "Redes de computadores", "alias": "B"}
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Qual linguagem de programação você prefere?",
+        "options": [
+            {"id": 1, "name": "JavaScript", "alias": "A"},
+            {"id": 2, "name": "Python", "alias": "A"},
+            {"id": 3, "name": "C#", "alias": "A"},
+            {"id": 4, "name": "Java", "alias": "B"},
+            {"id": 5, "name": "Não sei programar", "alias": "B"}
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Qual tecnologia emergente você está mais interessado?",
+        "options": [
+            {"id": 1, "name": "Blockchain", "alias": "B"},
+            {"id": 2, "name": "Computação quântica", "alias": "A"},
+            {"id": 3, "name": "Realidade virtual", "alias": "A"},
+            {"id": 4, "name": "Internet das Coisas (IoT)", "alias": "B"}
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Qual é sua abordagem ao enfrentar problemas de tecnologia?",
+        "options": [
+            {"id": 1, "name": "Debuggar", "alias": "A"},
+            {"id": 2, "name": "Criar um plano de contingência", "alias": "B"},
+            {"id": 3, "name": "Esperar o problema se resolver sozinho", "alias": "A"},
+            {"id": 4, "name": "Pedir ajuda a um colega de trabalho", "alias": "B"}
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Qual a sua maior motivação em trabalhar com tecnologia?",
+        "options": [
+            {"id": 1, "name": "Resolver problemas complexos", "alias": "A"},
+            {"id": 2, "name": "Inovar e criar algo novo", "alias": "A"},
+            {"id": 3, "name": "Trabalhar em equipe", "alias": "B"},
+            {"id": 4, "name": "Ter um bom salário", "alias": "B"}
+        ]
+    }
+],
+"results": {
+    "A": "Você seria um grande programador!",
+    "B": "Você seria a pessoa fodastica de TI!"
+}
+
+
+}
