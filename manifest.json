@@ -1,0 +1,20 @@
+{
+  "name": "QUIZZ-TI",
+  "short_name": "QUIZZ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "/src/assets/imgs/sistemas-de-ti.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/src/assets/imgs/Icons8-Ios7-Logos-Small-Icons.512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
