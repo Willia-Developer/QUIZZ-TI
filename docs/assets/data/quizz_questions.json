@@ -1,0 +1,231 @@
+{
+  "title": "Descubra seu Perfil Tecnológico: Programador ou Gerente de TI?",
+"questions": [
+    {
+        "id": 1,
+        "question": "Qual área de tecnologia você prefere?",
+        "options": [
+            {"id": 1, "name": "Desenvolvimento de software", "alias": "A"},
+            {"id": 2, "name": "Infraestrutura de TI", "alias": "B"},
+            {"id": 3, "name": "Inteligência artificial", "alias": "A"},
+            {"id": 4, "name": "Segurança cibernética", "alias": "B"},
+            {"id": 5, "name": "Redes de computadores", "alias": "B"}
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Qual linguagem de programação você prefere?",
+        "options": [
+            {"id": 1, "name": "JavaScript", "alias": "A"},
+            {"id": 2, "name": "Python", "alias": "A"},
+            {"id": 3, "name": "C#", "alias": "A"},
+            {"id": 4, "name": "Java", "alias": "B"},
+            {"id": 5, "name": "Não sei programar", "alias": "B"}
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Qual tecnologia emergente você está mais interessado?",
+        "options": [
+            {"id": 1, "name": "Blockchain", "alias": "B"},
+            {"id": 2, "name": "Computação quântica", "alias": "A"},
+            {"id": 3, "name": "Realidade virtual", "alias": "A"},
+            {"id": 4, "name": "Internet das Coisas (IoT)", "alias": "B"}
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Qual é sua abordagem ao enfrentar problemas de tecnologia?",
+        "options": [
+            {"id": 1, "name": "Debuggar", "alias": "A"},
+            {"id": 2, "name": "Criar um plano de contingência", "alias": "B"},
+            {"id": 3, "name": "Esperar o problema se resolver sozinho", "alias": "A"},
+            {"id": 4, "name": "Pedir ajuda a um colega de trabalho", "alias": "B"}
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Qual a sua maior motivação em trabalhar com tecnologia?",
+        "options": [
+            {"id": 1, "name": "Resolver problemas complexos", "alias": "A"},
+            {"id": 2, "name": "Inovar e criar algo novo", "alias": "A"},
+            {"id": 3, "name": "Trabalhar em equipe", "alias": "B"},
+            {"id": 4, "name": "Ter um bom salário", "alias": "B"}
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Qual é a sua habilidade mais forte?",
+        "options": [
+            {"id": 1, "name": "Lógica e raciocínio", "alias": "A"},
+            {"id": 2, "name": "Comunicação e liderança", "alias": "B"},
+            {"id": 3, "name": "Criatividade e inovação", "alias": "A"},
+            {"id": 4, "name": "Organização e planejamento", "alias": "B"}
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Qual é o seu estilo de trabalho preferido?",
+        "options": [
+            {"id": 1, "name": "Trabalhar em equipe", "alias": "B"},
+            {"id": 2, "name": "Trabalhar sozinho", "alias": "A"},
+            {"id": 3, "name": "Trabalhar em projetos de curto prazo", "alias": "A"},
+            {"id": 4, "name": "Trabalhar em projetos de longo prazo", "alias": "B"}
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Qual é a sua experiência em liderança?",
+        "options": [
+            {"id": 1, "name": "Tenho experiência em liderar equipes", "alias": "B"},
+            {"id": 2, "name": "Prefiro seguir instruções do que dar ordens", "alias": "A"},
+            {"id": 3, "name": "Gosto de liderar projetos de tecnologia", "alias": "A"},
+            {"id": 4, "name": "Não tenho experiência em liderança", "alias": "B"}
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Qual é a sua formação acadêmica?",
+        "options": [
+            {"id": 1, "name": "Ciência da Computação ou Engenharia de Software", "alias": "A"},
+            {"id": 2, "name": "Administração de Empresas ou Gestão de TI", "alias": "B"},
+            {"id": 3, "name": "Design Gráfico ou Comunicação Social", "alias": "A"},
+            {"id": 4, "name": "Direito ou Contabilidade", "alias": "B"}
+        ]
+    },
+    {
+        "id": 10,
+        "question": "O que é um IP address?",
+        "options": [
+            {"id": 1, "name": "Um identificador exclusivo atribuído a cada dispositivo conectado à internet.", "alias": "A"},
+            {"id": 2, "name": "Um protocolo de transferência de arquivos.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 11,
+        "question": "Qual é o papel de um DNS?",
+        "options": [
+            {"id": 1, "name": "Traduzir nomes de domínio em endereços IP.", "alias": "A"},
+            {"id": 2, "name": "Enviar pacotes de dados pela rede.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 12,
+        "question": "O que significa OOP em programação?",
+        "options": [
+            {"id": 1, "name": "Programação Orientada a Objetos.", "alias": "A"},
+            {"id": 2, "name": "Protocolo de Operações Otimizadas.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 13,
+        "question": "O que é CI/CD?",
+        "options": [
+            {"id": 1, "name": "Integração e Entrega Contínuas.", "alias": "A"},
+            {"id": 2, "name": "Conexão Instantânea de Dados.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 14,
+        "question": "Qual comando Git cria uma nova ramificação (branch)?",
+        "options": [
+            {"id": 1, "name": "git branch <nome-da-branch>", "alias": "A"},
+            {"id": 2, "name": "git init.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 15,
+        "question": "Qual é a diferença entre HTTP e HTTPS?",
+        "options": [
+            {"id": 1, "name": "HTTPS é mais seguro porque usa criptografia SSL/TLS.", "alias": "A"},
+            {"id": 2, "name": "HTTP é mais rápido porque não usa criptografia.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 16,
+        "question": "O que é um ataque de phishing?",
+        "options": [
+            {"id": 1, "name": "Uma tentativa de enganar as pessoas para obter informações confidenciais.", "alias": "A"},
+            {"id": 2, "name": "Um ataque de negação de serviço (DDoS).", "alias": "B"}
+        ]
+    },
+    {
+        "id": 17,
+        "question": "Qual é a importância da criptografia na segurança cibernética?",
+        "options": [
+            {"id": 1, "name": "Proteger os dados confidenciais contra hackers.", "alias": "A"},
+            {"id": 2, "name": "Detectar e prevenir ataques de malware.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 18,
+        "question": "O que é um firewall?",
+        "options": [
+            {"id": 1, "name": "Um sistema de segurança que monitora e controla o tráfego de rede.", "alias": "A"},
+            {"id": 2, "name": "Um dispositivo de armazenamento em nuvem.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 19,
+        "question": "Qual é a função de um proxy?",
+        "options": [
+            {"id": 1, "name": "Intermediar a comunicação entre o cliente e o servidor.", "alias": "A"},
+            {"id": 2, "name": "Criar uma cópia de segurança dos dados.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 20,
+        "question": "O que é um servidor web?",
+        "options": [
+            {"id": 1, "name": "Um computador que hospeda sites e aplicativos na internet.", "alias": "A"},
+            {"id": 2, "name": "Um software de edição de texto.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 21,
+        "question": "Qual é a diferença entre um servidor físico e um servidor virtual?",
+        "options": [
+            {"id": 1, "name": "Um servidor físico é um computador dedicado, enquanto um servidor virtual é uma máquina virtual.", "alias": "A"},
+            {"id": 2, "name": "Um servidor físico é mais rápido do que um servidor virtual.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 22,
+        "question": "O que é um data center?",
+        "options": [
+            {"id": 1, "name": "Um centro de processamento de dados que armazena servidores e equipamentos de rede.", "alias": "A"},
+            {"id": 2, "name": "Um centro de treinamento em tecnologia.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 23,
+        "question": "Qual é a importância da virtualização de servidores?",
+        "options": [
+            {"id": 1, "name": "Reduzir custos e aumentar a eficiência dos servidores.", "alias": "A"},
+            {"id": 2, "name": "Aumentar a segurança dos dados e prevenir ataques cibernéticos.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 24,
+        "question": "O que é um backup de dados?",
+        "options": [
+            {"id": 1, "name": "Uma cópia de segurança dos arquivos e informações importantes.", "alias": "A"},
+            {"id": 2, "name": "Uma atualização de software para corrigir falhas de segurança.", "alias": "B"}
+        ]
+    },
+    {
+        "id": 25,
+        "question": "Qual é a diferença entre um backup local e um backup em nuvem?",
+        "options": [
+            {"id": 1, "name": "Um backup local é armazenado em um dispositivo físico, enquanto um backup em nuvem é armazenado na internet.", "alias": "A"},
+            {"id": 2, "name": "Um backup local é mais seguro do que um backup em nuvem.", "alias": "B"}
+
+  ]
+}
+],
+"results": {
+    "A": "Você seria um grande programador!",
+    "B": "Você seria a pessoa fodastica de TI!"
+}
+}
+
